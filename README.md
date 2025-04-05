@@ -107,7 +107,7 @@ A construção de um pipeline ETL com PostgreSQL permite armazenar e organizar o
 A criação de colunas como o índice de sucesso agregou valor à interpretação dos dados, permitindo avaliar a adequação ambiental de cada região para determinada cultura. Além disso, foi desenvolvido um dashboard com Shiny para visualização interativa dos padrões encontrados no conjunto de dados. Embora não execute previsões em tempo real, a ferramenta se mostrou útil para análise exploratória.  
 O projeto reforça que soluções baseadas em dados têm grande potencial para transformar o setor agrícola, tornando-o mais inteligente, sustentável e eficiente.
 
-Desenvolvido por [Eduardo Batista de Lima](https://www.linkedin.com/in/eduardobdlima) e [Victor Castro Silva](https://www.linkedin.com/in/victorcsil)
-Curso [Big Data e Inteligência Artificial](https://www.pucgoias.edu.br/cursos/graduacao/big-data-e-inteligencia-artificial-ead/) - Projeto Integrador II-A   
+Desenvolvido por [Eduardo Batista de Lima](https://www.linkedin.com/in/eduardobdlima) e [Victor Castro Silva](https://www.linkedin.com/in/victorcsil)  
+Curso [Big Data e Inteligência Artificial](https://www.pucgoias.edu.br/cursos/graduacao/big-data-e-inteligencia-artificial-ead/) - Projeto Integrador II-A  
 [PUC Goiás - Pontifícia Universidade Católica de Goiás](https://www.pucgoias.edu.br/)  
 Abril de 2025
