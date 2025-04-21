@@ -11,11 +11,11 @@ library(dplyr)
 
 con <- dbConnect(
   RPostgres::Postgres(),
-  dbname = "railway",
-  host = "gondola.proxy.rlwy.net",
-  port = 35131,
-  user = "postgres",
-  password = "nRNSIrpUhYULjDslKMJbkJrpFkgbjnSY"
+  dbname = "XXXX",
+  host = "XXXX",
+  port = XXXX,
+  user = "XXXX",
+  password = "XXXXX"
 )
 
 df <- dbReadTable(con, "crops")
