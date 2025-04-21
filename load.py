@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Configurações do Railway PostgreSQL
-DATABASE_URL = "postgresql://postgres:nRNSIrpUhYULjDslKMJbkJrpFkgbjnSY@gondola.proxy.rlwy.net:35131/railway"
+DATABASE_URL = DATABASEURL
 
 # Criar conexão usando SQLAlchemy
 engine = create_engine(DATABASE_URL)
